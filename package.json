@@ -1,0 +1,37 @@
+{
+  "name": "logrocker",
+  "description": "Logrocker - Simple development debugger",
+  "version": "1.0.0",
+  "homepage": "https://github.com/patrikmasiar/logrocker",
+  "author": "Patrik Mäsiar (https://github.com/patrikmasiar)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrikmasiar/logrocker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/patrikmasiar/logrocker/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "LICENSE",
+    "README.md"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "debugger",
+    "console",
+    "logger",
+    "javascript",
+    "typescript",
+    "react",
+    "reactjs"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
