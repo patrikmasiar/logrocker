@@ -1,4 +1,4 @@
-declare module '@reactive-academy/logrocker' {
+declare module 'logrocker' {
   const Logger: {
     log(...args: any): void;
     info(...args: any): void;
