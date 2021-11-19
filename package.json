@@ -1,7 +1,7 @@
 {
   "name": "logrocker",
   "description": "Logrocker - Simple development debugger",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://github.com/patrikmasiar/logrocker",
   "author": "Patrik Mäsiar (https://github.com/patrikmasiar)",
   "repository": {
